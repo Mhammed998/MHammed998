@@ -6,7 +6,9 @@ With over 3 years of experience as a full-stack developer, I specialize in creat
 
 ---
 
-### 🛠️ Tools & Technologies
+---
+
+### 🛠️ Technologies
 
 <p align="left">
   <!-- HTML5 -->
@@ -29,15 +31,15 @@ With over 3 years of experience as a full-stack developer, I specialize in creat
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
   </a> &nbsp; jQuery
 
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  </a> &nbsp; Bootstrap
+
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a> &nbsp; PHP
-
-  <!-- OOP -->
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-outline-juicy-fish/40/000000/external-oop-programming-outline-outline-juicy-fish.png" alt="OOP" width="40" height="40"/>
-  </a> &nbsp; Object-Oriented Programming
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -46,11 +48,12 @@ With over 3 years of experience as a full-stack developer, I specialize in creat
 
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   </a> &nbsp; Laravel
 </p>
 
 ---
+
 
 
 ### 🛠️ Skills & Tools
