@@ -4,7 +4,6 @@
 
 With over 3 years of experience as a full-stack developer, I specialize in creating robust, scalable, and efficient web applications. My expertise lies primarily in **PHP** and **Laravel**, but I enjoy exploring new technologies to solve complex problems and deliver optimal user experiences.
 
----
 
 ---
 
@@ -38,7 +37,7 @@ With over 3 years of experience as a full-stack developer, I specialize in creat
 
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 
   <!-- PHP -->
@@ -48,7 +47,7 @@ With over 3 years of experience as a full-stack developer, I specialize in creat
 
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
   </a>
 
   <!-- MySQL -->
@@ -88,10 +87,6 @@ With over 3 years of experience as a full-stack developer, I specialize in creat
 </p>
 
 ---
-
-
----
-
 
 
 ### 🛠️ Skills & Tools
