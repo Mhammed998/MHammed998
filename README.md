@@ -6,8 +6,6 @@ With over 3 years of experience as a full-stack developer, I specialize in creat
 
 ---
 
----
-
 ### 🛠️ Technologies
 
 <p align="left">
